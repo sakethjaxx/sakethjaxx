@@ -15,6 +15,11 @@ I build intelligent systems that solve real problems. Passionate about generativ
 
 ## 📌 Featured Projects
 
+| Project | Description | Tech | Stars |
+|---------|-------------|------|-------|
+| **[ContextIQ](https://github.com/sakethjaxx/context-iq)** | AI token tracker with live intelligence meter for Claude Code | Python, MCP | ![](https://img.shields.io/github/stars/sakethjaxx/context-iq?style=flat) |
+| **[Incident-Atlas-Pro](https://github.com/sakethjaxx/Incident-Atlas-Pro)** | Transform incident reports into searchable knowledge using hybrid search + knowledge graphs | JavaScript, TypeScript | ![](https://img.shields.io/github/stars/sakethjaxx/Incident-Atlas-Pro?style=flat) |
+| **[Local-Event-Management](https://github.com/sakethjaxx/Local-Event-Management-System)** | Full-stack event platform with secure authentication and MVC architecture | PHP, MySQL | ![](https://img.shields.io/github/stars/sakethjaxx/Local-Event-Management-System?style=flat) |
 ### 🧠 [ContextIQ](https://github.com/sakethjaxx/context-iq)
 AI context intelligence meter — know when your AI is losing its mind before it does.
 - Live token tracking for Claude Code
