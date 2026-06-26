@@ -32,18 +32,18 @@ I build intelligent systems that solve real problems. Passionate about generativ
    
     - ---
 
-    ## 📍 Connect With Me
+## 📍 Connect With Me
 
-    - **LinkedIn:** [in/sakethjaggaiahgari](https://www.linkedin.com/in/sakethjaggaiahgari/)
-    - - **GitHub:** [@sakethjaxx](https://github.com/sakethjaxx)
-      - - **Contact:** Reach out via GitHub issues or LinkedIn
+  - **LinkedIn:** [in/sakethjaggaiahgari](https://www.linkedin.com/in/sakethjaggaiahgari/)
+  - - **GitHub:** [@sakethjaxx](https://github.com/sakethjaxx)
+  - - **Contact:** Reach out via GitHub issues or LinkedIn
        
         - ---
 
-        ## 📈 GitHub Stats
+## 📈 GitHub Stats
 
-        - 18+ Public Repositories
-        - - 44+ Contributions (Last Year)
-          - - Pull Shark 🦈
+  - 18+ Public Repositories
+   - - 44+ Contributions (Last Year)
+    - - Pull Shark 🦈
            
-            - *Open to collaborations and opportunities!*
+- *Open to collaborations and opportunities!*
